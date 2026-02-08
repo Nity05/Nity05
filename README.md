@@ -73,16 +73,6 @@ Currently preparing for **software development and data science roles**, with ha
 
 ---
 
-### 🔹 Glitchcon Web Platform
-**Tech Stack:** HTML, CSS, JavaScript  
-
-- Built a responsive **web platform for an event/conference-style application**  
-- Designed interactive UI components and page layouts  
-- Strengthened frontend fundamentals and usability-focused design  
-
-🔗 Repository: https://github.com/Nity05/Glitchcon
-
----
 
 ### 🔹 MERN AI Bot
 **Tech Stack:** MongoDB, Express.js, React.js, Node.js  
