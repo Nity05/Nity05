@@ -69,11 +69,6 @@ Currently preparing for **software development and data science roles**, with ha
 ---
 
 
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nity05&show_icons=true&hide_border=true)
-
----
 
 ## 📫 Contact
 
