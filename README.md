@@ -1,16 +1,86 @@
-## Hi there 👋
+# Nithish Kumar CS
 
-<!--
-**Nity05/Nity05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student  
+📍 Chennai, India  
+💻 Aspiring Software Engineer | Data Science & Full-Stack Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 About Me
+
+I am a Computer Science undergraduate with strong foundations in programming, data structures, and software development.  
+I enjoy building practical projects that combine **clean code**, **problem-solving**, and **real-world applicability**.
+
+Currently preparing for **software development and data science roles**, with hands-on experience through academic and self-initiated projects.
+
+---
+
+## 🛠️ Technical Skills
+
+**Programming Languages**
+- Java  
+- Python  
+- C  
+- JavaScript  
+
+**Web & Application Development**
+- HTML, CSS  
+- React.js  
+- Node.js, Express.js  
+
+**Databases**
+- MongoDB  
+- SQL (basic)
+
+**Core CS Concepts**
+- Data Structures and Algorithms  
+- Object-Oriented Programming (OOP)  
+- Operating Systems  
+- DBMS  
+- Computer Networks  
+
+**Tools & Platforms**
+- Git & GitHub  
+- VS Code  
+- Linux (basic)
+
+---
+
+## 📂 Projects
+
+### 🔹 MERN AI Bot
+**Tech:** MongoDB, Express.js, React.js, Node.js  
+- Built a full-stack chatbot application using the MERN stack  
+- Integrated AI-based response handling  
+- Implemented modular backend APIs and responsive frontend UI  
+
+🔗 Repository: https://github.com/Nity05/MERN-AI-BOT
+
+---
+
+### 🔹 Movie Browser Application
+**Tech:** React.js, JavaScript, REST APIs  
+- Developed a movie browsing web application using public APIs  
+- Implemented search, filtering, and dynamic rendering of content  
+- Focused on clean UI and component-based design  
+
+🔗 Repository: https://github.com/Nity05/Movie-Browser
+
+---
+
+
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nity05&show_icons=true&hide_border=true)
+
+---
+
+## 📫 Contact
+
+- 📧 Email: csnithishk05@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/nithish-kumar-cs/
+- 🌐 Portfolio: https://nithish-kumar-cs.vercel.app/
+
+---
+
+**Actively seeking internship and entry-level opportunities where I can learn, contribute, and grow as a software engineer.**
