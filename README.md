@@ -1,107 +1,109 @@
+<div align="center">
+
 # Nithish Kumar CS
 
-🎓 Computer Science Engineering Student  
-📍 Chennai, India  
-💻 Aspiring Software Engineer | Data Science & Full-Stack Enthusiast
+**Computer Science Engineer | Software Development & DevOps**
+
+Chennai, India
+
+**Email:** csnithishk05@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/nithish-kumar-cs/  
+**Portfolio:** https://nithish-kumar-cs.vercel.app/
+</div>
 
 ---
 
-## 👋 About Me
+## About
 
-I am a Computer Science undergraduate with strong foundations in programming, data structures, and software development.  
-I enjoy building practical projects that combine **clean code**, **problem-solving**, and **real-world applicability**.
+Computer Science undergraduate with a strong foundation in software engineering, full-stack development, and cloud/DevOps practices. Experienced in building end-to-end systems — from application code to CI/CD pipelines and infrastructure monitoring. Comfortable working across the stack: writing clean, maintainable code and deploying it reliably using modern DevOps tooling.
 
-Currently preparing for **software development and data science roles**, with hands-on experience through academic and self-initiated projects.
+Actively seeking internship and entry-level opportunities in **Software Engineering**, **DevOps/Cloud**, and **AI/Data Science**.
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
-**Programming Languages**
-- Java  
-- Python  
-- C  
-- JavaScript  
+**Languages**
+`Java` `Python` `C` `JavaScript` `TypeScript`
 
 **Web & Application Development**
-- HTML, CSS  
-- React.js  
-- Node.js, Express.js  
+`React.js` `Next.js` `Node.js` `Express.js` `HTML` `CSS` `REST APIs`
 
 **Databases**
-- MongoDB  
-- SQL (basic)
+`MongoDB` `SQL`
 
-**Core CS Concepts**
-- Data Structures and Algorithms  
-- Object-Oriented Programming (OOP)  
-- Operating Systems  
-- DBMS  
-- Computer Networks  
+**DevOps & Infrastructure**
+`Docker` `Kubernetes` `Jenkins` `Maven` `Git & GitHub` `AWS (S3, SageMaker)`
+
+**Monitoring & Observability**
+`Grafana` `Nagios` `Graphite`
+
+**Core CS Foundations**
+`Data Structures & Algorithms` `Object-Oriented Programming` `Operating Systems` `DBMS` `Computer Networks`
 
 **Tools & Platforms**
-- Git & GitHub  
-- VS Code  
-- Linux (basic)
+`VS Code` `Linux` `Git`
 
 ---
 
-## 📂 Projects
+## Projects
 
-### 🔹 AI-Powered AutoML Platform
-**Tech Stack:** Next.js 16, React 19, TypeScript, FastAPI, AWS SageMaker, AWS S3, Google Gemini Pro, Scikit-learn, Pandas, Kaggle API  
+### AI-Powered AutoML Platform
+*Next.js 16 · React 19 · TypeScript · FastAPI · AWS SageMaker · AWS S3 · Google Gemini Pro · Scikit-learn · Pandas · Kaggle API*
 
-- Built an **end-to-end Automated Machine Learning (AutoML) platform** that automates dataset discovery, model training, and deployment  
-- Integrated **Kaggle API** to search and ingest real-world datasets dynamically  
-- Used **Google Gemini Pro (LLM)** to generate custom ML training pipelines and configuration code  
-- Deployed training jobs on **AWS SageMaker**, removing the need for manual infrastructure setup  
-- Stored datasets and model artifacts using **AWS S3**  
-- Developed a modern, responsive frontend using **Next.js, React, Tailwind CSS, and glassmorphism UI**  
+- Built an end-to-end AutoML platform automating dataset discovery, model training, and deployment
+- Integrated the Kaggle API for dynamic ingestion of real-world datasets
+- Used Google Gemini Pro (LLM) to auto-generate ML training pipelines and configuration code
+- Deployed training jobs on AWS SageMaker, eliminating manual infrastructure setup
+- Designed a responsive frontend using Next.js, React, Tailwind CSS, and glassmorphism UI
 
-🔗 Repository: https://github.com/Nity05/Automl
-
----
-
-### 🔹 Fall Detection System
-**Tech Stack:** Python, Machine Learning, Data Processing  
-
-- Developed a **machine learning–based fall detection system** for identifying fall events  
-- Implemented data preprocessing, feature extraction, and classification logic  
-- Focused on real-world applicability in **healthcare and elderly monitoring systems**  
-
-🔗 Repository: https://github.com/Nity05/fall_detect
+**Repository:** [github.com/Nity05/Automl](https://github.com/Nity05/Automl)
 
 ---
 
+### Fall Detection System
+*Python · Machine Learning · Data Processing*
 
-### 🔹 MERN AI Bot
-**Tech Stack:** MongoDB, Express.js, React.js, Node.js  
+- Developed an ML-based system to detect fall events for healthcare and elderly-monitoring use cases
+- Implemented data preprocessing, feature extraction, and classification pipelines
+- Focused on real-world reliability and applicability
 
-- Built a **full-stack chatbot application** using the MERN architecture  
-- Designed REST APIs for handling chat logic and responses  
-- Implemented modular backend structure and responsive frontend components  
-
-🔗 Repository: https://github.com/Nity05/MERN-AI-BOT
-
----
-
-### 🔹 Movie Browser Application
-**Tech Stack:** React.js, JavaScript, REST APIs  
-
-- Developed a **movie search and browsing web application** using public APIs  
-- Implemented dynamic search, filtering, and conditional rendering  
-- Applied component-based architecture and clean UI design  
-
-🔗 Repository: https://github.com/Nity05/Movie-Browser
+**Repository:** [github.com/Nity05/fall_detect](https://github.com/Nity05/fall_detect)
 
 ---
 
-## 📫 Contact
+### MERN AI Bot
+*MongoDB · Express.js · React.js · Node.js*
 
-- 📧 Email: csnithishk05@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/nithish-kumar-cs/  
-- 🌐 Portfolio: https://nithish-kumar-cs.vercel.app/  
+- Built a full-stack chatbot application on the MERN stack
+- Designed REST APIs to handle chat logic and response generation
+- Structured a modular backend with a responsive React frontend
+
+**Repository:** [github.com/Nity05/MERN-AI-BOT](https://github.com/Nity05/MERN-AI-BOT)
 
 ---
 
-**Actively seeking internship and entry-level opportunities in Software Engineering, AI, and Data Science where I can contribute to real-world systems and continue growing as an engineer.**
+### Movie Browser Application
+*React.js · JavaScript · REST APIs*
+
+- Built a movie search and browsing application powered by public APIs
+- Implemented dynamic search, filtering, and conditional rendering
+- Applied a clean, component-based architecture
+
+**Repository:** [github.com/Nity05/Movie-Browser](https://github.com/Nity05/Movie-Browser)
+
+---
+
+## Contact
+
+| | |
+|---|---|
+| **Email** | csnithishk05@gmail.com |
+| **LinkedIn** | [linkedin.com/in/nithish-kumar-cs](https://www.linkedin.com/in/nithish-kumar-cs/) |
+| **Portfolio** | [nithish-kumar-cs.vercel.app](https://nithish-kumar-cs.vercel.app/) |
+
+<div align="center">
+
+*Open to Software Engineering, DevOps, and Data Science opportunities.*
+
+</div>
