@@ -6,9 +6,10 @@
 
 Chennai, India
 
-**Email:** csnithishk05@gmail.com  
-**LinkedIn:** https://www.linkedin.com/in/nithish-kumar-cs/  
-**Portfolio:** https://nithish-kumar-cs.vercel.app/
+[![Email](https://img.shields.io/badge/Email-csnithishk05%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:csnithishk05@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithish-kumar-cs/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=vercel&logoColor=white)](https://nithish-kumar-cs.vercel.app/)
+
 </div>
 
 ---
