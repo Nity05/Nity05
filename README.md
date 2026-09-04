@@ -138,6 +138,7 @@ Actively seeking opportunities in **Software Engineering, Cloud/DevOps, and AI/M
 - Structured a modular backend with a responsive React frontend.
 
 **Repository:** [github.com/Nity05/MERN-AI-BOT](https://github.com/Nity05/MERN-AI-BOT)
+
 ---
 
 ## Education
