@@ -72,13 +72,12 @@ Actively seeking opportunities in **Software Engineering, Cloud/DevOps, and AI/M
 ## Projects
 
 ### AI-Powered AutoML Platform
-*Next.js 16 · React 19 · TypeScript · FastAPI · AWS SageMaker · AWS S3 · Google Gemini Pro · Scikit-learn · Pandas · Kaggle API*
+*Next.js · React · TypeScript · FastAPI · AWS SageMaker · AWS S3 · Gemini API · Scikit-learn · Pandas · Kaggle API*
 
-- Built an end-to-end AutoML platform automating dataset discovery, preprocessing, model training, hyperparameter tuning, and deployment.
-- Integrated the Kaggle API for dynamic ingestion of real-world datasets.
-- Used Google Gemini Pro to generate ML training pipelines and configuration code.
-- Deployed training jobs on AWS SageMaker and integrated AWS S3 for dataset and model artifact management.
-- Designed a responsive frontend using Next.js, React, Tailwind CSS, and a glassmorphism-based UI.
+- Built an end-to-end AutoML platform for dataset ingestion, preprocessing, hyperparameter tuning, and managed model training.
+- Developed FastAPI services to orchestrate ML workflows between frontend requests and backend training jobs.
+- Integrated AWS S3, IAM, and SageMaker for dataset storage, managed training, and model artifact management.
+- Used Gemini API to assist with ML workflow generation and automation.
 
 **Repository:** [github.com/Nity05/Automl](https://github.com/Nity05/Automl)
 
@@ -90,17 +89,30 @@ Actively seeking opportunities in **Software Engineering, Cloud/DevOps, and AI/M
 - Built an internal operations dashboard for support tracking, service health, deployment visibility, and runtime monitoring.
 - Implemented health checks, operational summaries, incident signals, and Prometheus-compatible application metrics.
 - Added Micrometer and OpenTelemetry for application observability and runtime monitoring.
-- Containerized and deployed the application using Docker and Kubernetes.
-- Integrated Prometheus, Grafana, and GitHub Actions for monitoring and CI/CD.
+- Containerized and deployed the application using Docker and Kubernetes with monitoring and CI/CD.
+
+**Repository:** [github.com/Nity05/Automl](https://github.com/Nity05/Internal-Service-Health-Operations-Dashboard)
 
 ---
 
-### AI Malware Scanner
+### MacroGraph AI — Multi-Agent Indian Macroeconomic Intelligence Platform
+*Python · FastAPI · LangGraph · Neo4j · Qdrant · PostgreSQL · Redis · React · Docker*
+
+- Built an explainable multi-agent platform for analyzing Indian macroeconomic indicators and simulating interconnected economic scenarios across sectors.
+- Developed finance and real-sector agents using LangGraph with A2A and MCP protocols for modular agent communication and standardized database tool execution.
+- Integrated GDP, CPI, RBI policy rates, government debt, and foreign exchange reserves using data from RBI, MoSPI, IMF, and World Bank sources.
+- Implemented Qdrant-based RAG over RBI monetary policy statements, Union Budget documents, Economic Survey chapters, and SEBI regulatory documents for source-grounded analysis.
+
+**Repository:** [github.com/Nity05/Automl](https://github.com/Nity05/macrograph-ai)
+
+---
+
+### AI Malware Scanner — Glitchcon
 *Python · PyTorch · LIEF · Scikit-learn · Machine Learning · Static Analysis · Dynamic Analysis*
 
-- Built a malware detection system combining static analysis, machine learning, and sandbox-based analysis.
+- Built a malware detection system combining static analysis, machine learning, and dynamic analysis.
 - Extracted PE-file features using LIEF and used a deep-learning model for malware classification.
-- Implemented dynamic analysis, multithreaded scanning, system-wide scanning, and JSON reporting.
+- Implemented multithreaded scanning, system-wide scanning, and structured JSON reporting.
 - Integrated VirusTotal for additional threat intelligence during file analysis.
 
 **Repository:** [github.com/Nity05/Glitchcon](https://github.com/Nity05/Glitchcon)
@@ -126,7 +138,6 @@ Actively seeking opportunities in **Software Engineering, Cloud/DevOps, and AI/M
 - Structured a modular backend with a responsive React frontend.
 
 **Repository:** [github.com/Nity05/MERN-AI-BOT](https://github.com/Nity05/MERN-AI-BOT)
-
 ---
 
 ## Education
