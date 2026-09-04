@@ -91,7 +91,7 @@ Actively seeking opportunities in **Software Engineering, Cloud/DevOps, and AI/M
 - Added Micrometer and OpenTelemetry for application observability and runtime monitoring.
 - Containerized and deployed the application using Docker and Kubernetes with monitoring and CI/CD.
 
-**Repository:** [github.com/Nity05/Automl](https://github.com/Nity05/Internal-Service-Health-Operations-Dashboard)
+**Repository:** [github.com/Nity05/Internal-Service-Health-Operations-Dashboard](https://github.com/Nity05/Internal-Service-Health-Operations-Dashboard)
 
 ---
 
@@ -103,7 +103,7 @@ Actively seeking opportunities in **Software Engineering, Cloud/DevOps, and AI/M
 - Integrated GDP, CPI, RBI policy rates, government debt, and foreign exchange reserves using data from RBI, MoSPI, IMF, and World Bank sources.
 - Implemented Qdrant-based RAG over RBI monetary policy statements, Union Budget documents, Economic Survey chapters, and SEBI regulatory documents for source-grounded analysis.
 
-**Repository:** [github.com/Nity05/Automl](https://github.com/Nity05/macrograph-ai)
+**Repository:** [github.com/Nity05/macrograph-ai](https://github.com/Nity05/macrograph-ai)
 
 ---
 
